@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: benefit-coding
+
+  cloud: 
+    config:
+      uri: http://localhost:8889
+      fail-fast: true
+      password: password
+      username: user
+    
+jwt:
+  secret: testingJWTAuthentication
+  header: Bearer
+  expiration: 2
