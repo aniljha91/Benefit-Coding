@@ -12,9 +12,10 @@
 	<description>CCSP benefit coding</description>
 
 	<parent>
-		<groupId>com.org.micro</groupId>
-		<artifactId>org-microservice-parent</artifactId>
-		<version>0.1.0-SNAPSHOT</version>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.3.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
 	<properties>
