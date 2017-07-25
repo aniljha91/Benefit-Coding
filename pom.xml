@@ -26,7 +26,7 @@
 		<jjwt.version>0.7.0</jjwt.version>
 		<findbugs-maven-plugin.version>3.0.4</findbugs-maven-plugin.version>
 		<docker-maven-plugin.version>0.4.13</docker-maven-plugin.version>
-		<sonar.host.url>http://localhost:9000</sonar.host.url>
+		<sonar.host.url>http://35.164.32.240:9000</sonar.host.url>
 		<maven.build.timestamp.format>MM.yyyy</maven.build.timestamp.format>
 		<yearMonth>${maven.build.timestamp}</yearMonth>    
 		<sonar.projectKey>MyProjectKey</sonar.projectKey>
